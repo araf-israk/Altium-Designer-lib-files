@@ -1,0 +1,15 @@
+
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+temp/
+
+/*
+
+!.gitignore
+!README.md
+
+!3D PCB MODEL ARAF/
+!ALTIUM_LIBRARY_ARAF/
+ALTIUM_LIBRARY_ARAF/History/
